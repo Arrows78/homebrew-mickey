@@ -1,6 +1,6 @@
 cask "mickey" do
-  version "0.4.0"
-  sha256 "b65a42d9f2a5c64ff33bdbbd21b1032a2caacd30d477c3df60072879c1f11a3c"
+  version "0.4.1"
+  sha256 "943746b54869f8a82ae4bceb4f47ebabe3d1e1b951520466e3a7cd54c7c6cd1b"
 
   url "https://github.com/Arrows78/Mickey/releases/download/v#{version}/Mickey-#{version}.zip"
   name "Mickey"
